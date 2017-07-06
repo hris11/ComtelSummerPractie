@@ -1,0 +1,38 @@
+li {
+    font-size: 20px;
+}
+
+.box {
+    display: block;
+    position: relative;
+    height: 200px;
+    width: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    align-content: center;
+    color: white;
+}
+
+.in-box-ul {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    align-content: center;
+    width: 100px;
+    height: 200px;
+}
+
+.buttonRandomize {
+    background: none;
+    padding: 20px;
+    border: 2px solid lightseagreen;
+    color: lightseagreen;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.buttonRandomize:hover {
+    background: lightseagreen;
+    color: #222;
+    transition: 0.5s;
+}
