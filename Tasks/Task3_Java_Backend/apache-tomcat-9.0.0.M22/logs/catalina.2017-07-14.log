@@ -1,0 +1,59 @@
+14-Jul-2017 16:55:56.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.0.M22
+14-Jul-2017 16:55:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 21 2017 09:44:18 UTC
+14-Jul-2017 16:55:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.0.0
+14-Jul-2017 16:55:56.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Jul-2017 16:55:56.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Jul-2017 16:55:56.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Jul-2017 16:55:56.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_111
+14-Jul-2017 16:55:56.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+14-Jul-2017 16:55:56.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Jul-2017 16:55:56.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22
+14-Jul-2017 16:55:56.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22
+14-Jul-2017 16:55:56.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\conf\logging.properties
+14-Jul-2017 16:55:56.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Jul-2017 16:55:56.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Jul-2017 16:55:56.745 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Jul-2017 16:55:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22
+14-Jul-2017 16:55:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22
+14-Jul-2017 16:55:56.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\temp
+14-Jul-2017 16:55:56.750 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.12] using APR version [1.5.2].
+14-Jul-2017 16:55:56.757 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14-Jul-2017 16:55:56.758 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14-Jul-2017 16:55:57.664 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2k  26 Jan 2017]
+14-Jul-2017 16:55:59.560 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Jul-2017 16:56:00.391 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+14-Jul-2017 16:56:00.403 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+14-Jul-2017 16:56:00.407 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+14-Jul-2017 16:56:00.407 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 6099 ms
+14-Jul-2017 16:56:00.522 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Jul-2017 16:56:00.522 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.0.M22
+14-Jul-2017 16:56:00.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\docs]
+14-Jul-2017 16:56:01.722 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\docs] has finished in [1,191] ms
+14-Jul-2017 16:56:01.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\examples]
+14-Jul-2017 16:56:05.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\examples] has finished in [3,658] ms
+14-Jul-2017 16:56:05.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\host-manager]
+14-Jul-2017 16:56:05.488 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\host-manager] has finished in [108] ms
+14-Jul-2017 16:56:05.489 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\manager]
+14-Jul-2017 16:56:05.595 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\manager] has finished in [105] ms
+14-Jul-2017 16:56:05.595 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\ROOT]
+14-Jul-2017 16:56:05.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\ROOT] has finished in [68] ms
+14-Jul-2017 16:56:05.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\test]
+14-Jul-2017 16:56:05.773 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\test] has finished in [109] ms
+14-Jul-2017 16:56:05.779 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Jul-2017 16:56:05.792 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+14-Jul-2017 16:56:05.801 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5393 ms
+14-Jul-2017 16:57:05.828 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\New folder]
+14-Jul-2017 16:57:05.916 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\New folder] has finished in [88] ms
+14-Jul-2017 16:57:36.440 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/New folder]
+14-Jul-2017 16:57:36.617 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\ipgetter]
+14-Jul-2017 16:57:36.686 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hrist\Desktop\apache-tomcat-9.0.0.M22\webapps\ipgetter] has finished in [69] ms
+14-Jul-2017 16:57:56.698 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/ipgetter]
+14-Jul-2017 16:57:56.698 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ipgetter] has started
+14-Jul-2017 16:57:56.766 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ipgetter] is completed
+14-Jul-2017 17:10:08.181 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Jul-2017 17:10:08.318 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+14-Jul-2017 17:10:08.430 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Jul-2017 17:10:08.481 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Jul-2017 17:10:08.487 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+14-Jul-2017 17:10:08.491 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Jul-2017 17:10:08.503 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
